@@ -10,7 +10,7 @@ platforms.
 
 The resulting packages will be found in:
 
-    $RELEASE/$PLATFORM/OpenWrt-SDK-*/bin/packages/
+    $RELEASE/$PLATFORM/OpenWrt-SDK-*/bin/$PLATFORM/packages/
 
 For the package, Wifidog version is set to the unix timestamp of the build
 run. PKG\_RELEASE is set to the git commit.
